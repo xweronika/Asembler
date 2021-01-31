@@ -3,7 +3,9 @@
 Assembly code: Converter, Music,  Pyramid.
 
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=as.PNG&t=P0BVWyRjvQaut0v&scalingup=0)
+![as](https://user-images.githubusercontent.com/44413511/106394338-73c30080-63fc-11eb-8a53-b5b4c3fe9d18.PNG)
+![as1](https://user-images.githubusercontent.com/44413511/106394340-745b9700-63fc-11eb-9976-066bbc92ce81.PNG)
 
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=as1.PNG&t=w1QSBhjxzn7PIJ2&scalingup=0)
+
+
